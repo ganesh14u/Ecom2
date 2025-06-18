@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://samridhini.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://samridhini.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://samridhini.com/collections/dresses.atom"/>
+  <title>Samridhini</title>
+  <updated>2025-01-25T14:25:28+05:30</updated>
+  <author>
+    <name>Samridhini</name>
+  </author>
+  <entry>
+    <id>https://samridhini.com/products/7602902237268</id>
+    <published>2025-01-25T14:25:28+05:30</published>
+    <updated>2025-01-25T14:25:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/charming-lilac-hand-embroidered-kurti-with-tie-dye-dupatta"/>
+    <title>Charming Lilac Hand-Embroidered Kurti with Tie-Dye Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/657FBB76-9E30-45AA-BFC1-7E2860A01A24_1a9c23ef-aa88-4b78-b88e-3d27a7841e08.png?v=1737794020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N (kurti,bottom,dupatta)</strong></li>
+<li>
+<strong>Kurti Fabric:</strong> Premium soft and breathable fabric, offering a comfortable and elegant fit for any occasion.</li>
+<li>
+<strong>Color:</strong> Delicate lilac hue, exuding a feminine and sophisticated charm, perfect for casual and festive events.</li>
+<li>
+<strong>Design:</strong> Features fine hand-embroidery on the neckline and sleeves, showcasing craftsmanship and adding a timeless appeal.</li>
+<li>
+<strong>Dupatta:</strong> Stylish tie-dye dupatta in matching tones, enhancing the outfit's contemporary and ethnic aesthetic.</li>
+<li>
+<strong>Neckline:</strong> Beautifully adorned with intricate embroidery, creating an eye-catching focal point.</li>
+<li>
+<strong>Occasion:</strong> A versatile piece ideal for casual outings, festive gatherings, or cultural celebrations.</li>
+<li>
+<strong>Accessories:</strong> Complements well with silver jewelry, bangles, and neutral-toned footwear for a polished look.</li>
+<li>
+<strong>Style:</strong> A perfect fusion of traditional elegance and modern sophistication, designed to leave a lasting impression.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7602902237268</id>
+      <title>M-32</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7602902237268</id>
+      <title>L-40</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7602902237268</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7602902237268</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597090111572</id>
+    <published>2025-01-16T00:43:38+05:30</published>
+    <updated>2025-01-16T00:43:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/10"/>
+    <title>Graceful Black Kurti with Elegant Floral Printed Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5313.jpg?v=1736968408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N (kurti,bottom,dupatta)</strong></li>
+<li>
+<strong>Fabric:</strong> Premium, breathable fabric ensuring comfort with a refined finish.</li>
+<li>
+<strong>Colour:</strong> Classic black kurti paired with a richly designed multicolor floral printed dupatta.</li>
+<li>
+<strong>Embroidery:</strong> Subtle and delicate embroidery on the kurti neckline adds a touch of elegance.</li>
+<li>
+<strong>Design:</strong> Sleeveless straight-cut kurti with minimalist detailing for a sophisticated appeal.</li>
+<li>
+<strong>Dupatta:</strong> Vibrant floral motifs on a dark base with a contrasting green border, enhancing the ethnic charm.</li>
+<li>
+<strong>Occasion:</strong> Perfect for festive gatherings, formal events, and traditional celebrations.</li>
+<li>
+<strong>Styling Tip:</strong> Pair with statement earrings and heels for a graceful ethnic ensemble.</li>
+</ul>
+<p>This kurti set is a timeless fusion of elegance and tradition, making it a standout choice for any special occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597090111572</id>
+      <title>M-32</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597090111572</id>
+      <title>L-40</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597090111572</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597090111572</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597089980500</id>
+    <published>2025-01-16T00:42:51+05:30</published>
+    <updated>2025-01-16T00:42:51+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/9"/>
+    <title>Regal Purple Embroidered Kurti with Exquisite Floral Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5265.jpg?v=1736968366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N</strong></li>
+<li>
+<strong>Fabric:</strong> Soft and breathable fabric ensures all-day comfort while maintaining elegance.</li>
+<li>
+<strong>Colour:</strong> Deep royal purple kurti paired with a luxurious floral dupatta in cream and vibrant hues.</li>
+<li>
+<strong>Embroidery:</strong> Intricate silver zari work adorns the neckline and hem, adding a regal touch.</li>
+<li>
+<strong>Design:</strong> Straight-cut kurti with three-fourth sleeves, featuring delicate embellishments for a refined look.</li>
+<li>
+<strong>Dupatta:</strong> Contrasting cream dupatta with floral motifs and a detailed border that enhances the traditional vibe.</li>
+<li>
+<strong>Occasion:</strong> Perfect for festive gatherings, family functions, and ethnic celebrations.</li>
+<li>
+<strong>Styling Tip:</strong> Pair with silver jhumkas and strappy heels for a complete traditional ensemble.</li>
+</ul>
+<p>This kurti set is an elegant blend of modern design and timeless craftsmanship, ideal for making a striking statement at any event!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089980500</id>
+      <title>M - 32</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089980500</id>
+      <title>L-40</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089980500</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089980500</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597089882196</id>
+    <published>2025-01-16T00:42:21+05:30</published>
+    <updated>2025-01-16T00:42:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/8"/>
+    <title>Blush Pink Embroidered Kurti with Elegant Ombre Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5230.jpg?v=1736968335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></p>
+<ul>
+<li>
+<strong>Fabric:</strong> Soft and breathable cotton blend for unmatched comfort and style.</li>
+<li>
+<strong>Colour:</strong> Graceful blush pink kurti paired with a stunning pink-to-white ombre dupatta.</li>
+<li>
+<strong>Embroidery:</strong> Intricate white thread embroidery on the neckline and sleeves for a delicate, elegant look.</li>
+<li>
+<strong>Design:</strong> Straight-cut kurti with full sleeves and minimal embellishments for a refined silhouette.</li>
+<li>
+<strong>Dupatta:</strong> Lightweight ombre dupatta that adds a dreamy and graceful flair to the outfit.</li>
+<li>
+<strong>Occasion:</strong> Perfect for casual gatherings, festive celebrations, and daytime events.</li>
+<li>
+<strong>Styling Tip:</strong> Pair with pearl earrings and heels for a soft, sophisticated look.<meta charset="utf-8">
+</li>
+<li>Net Quantity:3N</li>
+</ul>
+<p>This kurti set blends simplicity with elegance, making it a timeless choice for every modern woman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089882196</id>
+      <title>M-32</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089882196</id>
+      <title>L-40</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089882196</id>
+      <title>XL-42</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089882196</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597089783892</id>
+    <published>2025-01-16T00:41:53+05:30</published>
+    <updated>2025-01-16T00:41:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/7"/>
+    <title>Classic Red Embroidered Kurti with Graceful Dupatta (kurti comes with sleeves)</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5166.jpg?v=1736968311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="color: rgb(197, 23, 23);"><strong><meta charset="utf-8">
+<span style="color: rgb(197, 23, 23);">kurti comes with sleeves</span></strong></li>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N (kurti,bottom,dupatta)</strong></li>
+<li>
+<strong>Fabric:</strong> Crafted from soft, breathable fabric for all-day comfort and effortless style.</li>
+<li>
+<strong>Colour:</strong> Vibrant red kurti paired with a matching dupatta, exuding elegance and charm.</li>
+<li>
+<strong>Embroidery:</strong> Intricate golden embroidery around the neckline adds a luxurious and festive touch.</li>
+<li>
+<strong>Design:</strong> Sleeveless straight-cut kurti designed with minimal embellishments for a sophisticated look.</li>
+<li>
+<strong>Dupatta:</strong> Coordinated red dupatta with subtle dotted patterns enhances the traditional appeal.</li>
+<li>
+<strong>Occasion:</strong> Ideal for festive celebrations, family gatherings, and traditional events.</li>
+<li>
+<strong>Styling Tip:</strong> Pair with gold jhumkas and bangles for a complete ethnic look.</li>
+</ul>
+<p>This kurti set perfectly blends tradition with elegance, making it a standout choice for any festive occasion.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089783892</id>
+      <title>M-32</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089783892</id>
+      <title>L-40</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089783892</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089783892</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597089718356</id>
+    <published>2025-01-16T00:41:18+05:30</published>
+    <updated>2025-01-16T00:41:18+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/6"/>
+    <title>Maroon Kurti with Intricate Golden Embroidery</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5106.jpg?v=1736968274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N (kurti,bottom,dupatta)</strong></li>
+<li>
+<strong>Fabric:</strong> Crafted from soft and breathable fabric, ensuring both comfort and elegance.</li>
+<li>
+<strong>Color:</strong> A rich maroon kurti paired with a matching dupatta for a timeless and sophisticated look.</li>
+<li>
+<strong>Embroidery:</strong> Exquisite golden embroidery adorns the neckline with a keyhole design, adding a luxurious touch.</li>
+<li>
+<strong>Design:</strong> Sleeveless straight-cut kurti with minimal embellishments and fine detailing at the hem.</li>
+<li>
+<strong>Dupatta:</strong> Matching maroon dupatta with a delicate dotted pattern and a gold border, perfectly complementing the ensemble.</li>
+<li>
+<strong>Occasion:</strong> Ideal for festive events, evening parties, or family gatherings.</li>
+<li>
+<strong>Styling Tip:</strong> Complete the look with gold bangles, statement earrings, and traditional juttis for an effortlessly chic appearance.</li>
+</ul>
+<p>This maroon kurti set is a blend of classic charm and modern elegance, making it a must-have for your ethnic wardrobe.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089718356</id>
+      <title>M-32</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089718356</id>
+      <title>L-40</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089718356</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089718356</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597089620052</id>
+    <published>2025-01-16T00:40:52+05:30</published>
+    <updated>2025-01-16T00:40:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/5"/>
+    <title>Vibrant Teal Kurti with Gold Embroidery and Mustard Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5063.jpg?v=1736968249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N</strong></li>
+<li>
+<strong>Fabric:</strong> Made with soft, breathable material for all-day comfort and elegance.</li>
+<li>
+<strong>Color:</strong> Stunning teal kurti paired with a bright mustard dupatta to create a lively and chic ensemble.</li>
+<li>
+<strong>Embroidery:</strong> Features intricate golden embroidery on the neckline and upper bodice, adding a regal touch.</li>
+<li>
+<strong>Design:</strong> Long-sleeved straight-cut kurti with minimal embellishments for a classy look.</li>
+<li>
+<strong>Dupatta:</strong> Complementing mustard dupatta with subtle gold detailing, enhancing the vibrancy of the outfit.</li>
+<li>
+<strong>Occasion:</strong> Perfect for festive gatherings, casual celebrations, and semi-formal events.</li>
+<li>
+<strong>Styling Tip:</strong> Pair it with gold earrings, bangles, and black or beige footwear for a graceful, traditional appearance.</li>
+</ul>
+<p>This kurti set combines bold colors and intricate detailing, making it a versatile choice for various occasions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089620052</id>
+      <title>M - 32</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089620052</id>
+      <title>L-40</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089620052</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089620052</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597089587284</id>
+    <published>2025-01-16T00:40:22+05:30</published>
+    <updated>2025-01-16T00:40:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/4-1"/>
+    <title>Dark Green Embroidered Kurti with a Stunning Pastel Floral Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi5001.jpg?v=1736968219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1559.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N</strong></li>
+<li>
+<strong>Fabric</strong>: Premium soft fabric ensures unmatched comfort and grace for all-day wear.</li>
+<li>
+<strong>Colour</strong>: Deep green kurti paired with a pastel aqua dupatta adorned with vibrant floral patterns.</li>
+<li>
+<strong>Embroidery</strong>: Delicate embroidery embellishes the neckline, adding charm and elegance to the outfit.</li>
+<li>
+<strong>Design</strong>: Straight-cut kurti with three-quarter sleeves, offering a blend of traditional and contemporary style.</li>
+<li>
+<strong>Dupatta</strong>: Contrasting aqua-colored dupatta with floral designs and intricate detailing for a vibrant ethnic look.</li>
+<li>
+<strong>Occasion</strong>: Ideal for festive celebrations, casual gatherings, and semi-formal events.</li>
+<li>
+<strong>Styling Tip</strong>: Complete the look with minimal jewelry, heels, and a matching clutch to enhance the outfit's elegance.</li>
+</ul>
+<p>This kurti set is the perfect blend of tradition and modernity, making it a standout piece for any occasion!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089587284</id>
+      <title>M - 32</title>
+      <s:price currency="INR">1559.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089587284</id>
+      <title>L-40</title>
+      <s:price currency="INR">1559.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089587284</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1559.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597089587284</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1559.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597069729876</id>
+    <published>2025-01-15T23:28:02+05:30</published>
+    <updated>2025-01-15T23:28:02+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/4"/>
+    <title>Soft Lavender Kurti with Delicate Floral Organza Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi4943.jpg?v=1736963877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N</strong></li>
+<li>
+<strong>Fabric:</strong> Lightweight and breathable fabric ensures ultimate comfort, paired with an airy organza dupatta.</li>
+<li>
+<strong>Colour:</strong> A soothing lavender kurti complemented by a pristine white dupatta adorned with pastel floral prints.</li>
+<li>
+<strong>Design:</strong> Straight-cut kurti with subtle embroidery at the neckline and minimal embellishments for a graceful and elegant touch.</li>
+<li>
+<strong>Dupatta:</strong> Sheer organza dupatta featuring vibrant floral motifs and a finely detailed lace border that enhances the charm.</li>
+<li>
+<strong>Occasion:</strong> Perfect for casual outings, festive occasions, and summer gatherings.</li>
+<li>
+<strong>Styling Tip:</strong> Pair with minimal jewelry, sandals, and a soft makeup look for an effortlessly elegant appearance.</li>
+</ul>
+<p>This lavender kurti set is a delightful blend of soft hues and delicate detailing, making it an ideal choice for understated sophistication.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069729876</id>
+      <title>M-32</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069729876</id>
+      <title>L-40</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069729876</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069729876</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597069172820</id>
+    <published>2025-01-15T23:26:38+05:30</published>
+    <updated>2025-01-15T23:26:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/2"/>
+    <title>Golden Mustard Kurti with Stunning Floral Silk Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi4855.jpg?v=1736963793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="text-align: left;"><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li style="text-align: left;"><strong>Net Quantity:3N</strong></li>
+<li style="text-align: left;">
+<strong>Fabric:</strong> Premium mustard kurti crafted from soft and breathable fabric, paired with a luxurious silk dupatta for a graceful look.</li>
+<li style="text-align: left;">
+<strong>Color:</strong> Rich mustard kurti complemented by a vibrant golden dupatta adorned with multicolored floral patterns and intricate borders.</li>
+<li style="text-align: left;">
+<strong>Design:</strong> Straight-cut kurti with three-quarter sleeves, featuring subtle embellishments for an understated yet elegant appearance.</li>
+<li style="text-align: left;">
+<strong>Dupatta:</strong> Exquisite floral dupatta with bold patterns and contrasting black and gold borders, adding a touch of sophistication.</li>
+<li style="text-align: left;">
+<strong>Occasion:</strong> Perfect for festive celebrations, casual gatherings, and traditional events.</li>
+</ul>
+<p>This kurti set effortlessly combines elegance and tradition, making it an ideal choice for making a lasting impression.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069172820</id>
+      <title>M - 32</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069172820</id>
+      <title>L-40</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069172820</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597069172820</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7597068779604</id>
+    <published>2025-01-15T23:25:39+05:30</published>
+    <updated>2025-01-15T23:25:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/1"/>
+    <title>Teal Anarkali Kurti with Embellished Detailing and Matching Dupatta</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi4710_93fdf6b1-34e8-4812-bda2-e76b67eb6214.jpg?v=1736963716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N (kurti,bottom,dupatta)</strong></li>
+<li>
+<strong>Fabric:</strong> Premium-quality fabric ensures comfort and an effortlessly regal appearance.</li>
+<li>
+<strong>Color:</strong> A rich teal Anarkali kurti paired with a beautifully coordinated dupatta for a refined look.</li>
+<li>
+<strong>Design:</strong> Intricate silver embroidery adorns the neckline, bodice, and hemline, while subtle embellishments add sparkle to the outfit.</li>
+<li>
+<strong>Dupatta:</strong> Lightweight matching dupatta featuring a detailed border that enhances the overall elegance.</li>
+<li>
+<strong>Fit:</strong> Flared Anarkali style with full sleeves for a graceful silhouette.</li>
+<li>
+<strong>Occasion:</strong> Ideal for weddings, festive celebrations, and formal gatherings.</li>
+<li>
+<strong>Styling Tip:</strong> Complete the look with silver jewelry and embellished heels for a sophisticated ethnic ensemble.</li>
+</ul>
+<p>This teal Anarkali kurti set is a timeless blend of traditional charm and modern elegance, perfect for special occasions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7597068779604</id>
+      <title>M-32</title>
+      <s:price currency="INR">2130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597068779604</id>
+      <title>L-40</title>
+      <s:price currency="INR">2130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597068779604</id>
+      <title>XL-42</title>
+      <s:price currency="INR">2130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7597068779604</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">2130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://samridhini.com/products/7595627937876</id>
+    <published>2025-01-13T00:38:58+05:30</published>
+    <updated>2025-01-13T00:38:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://samridhini.com/products/elegant-navy-blue-embroidered-kurti-with-golden-detailing"/>
+    <title>Elegant Navy-Blue Embroidered Kurti with Golden Detailing</title>
+    <s:type></s:type>
+    <s:vendor>Samridhini</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0603/9273/4804/files/keerthi4810.jpg?v=1736708948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samridhini<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Model Fit: The model is 5ft 7 inches and is wearing size M</strong></li>
+<li><strong>Net Quantity:3N (kurti,bottom,dupatta)</strong></li>
+<li>
+<strong>Kurti Fabric:</strong> Luxurious and soft fabric, ensuring a comfortable yet elegant fit for any occasion.</li>
+<li>
+<strong>Colour:</strong> Rich navy blue, radiating sophistication and charm, suitable for festive and formal events.</li>
+<li>
+<strong>Design:</strong> Features intricate golden embroidery around the neckline, adding a royal and artistic touch to the kurti.</li>
+<li>
+<strong>Dupatta:</strong> Sheer matching dupatta with subtle polka dot patterns, perfectly complementing the kurti's elegance.</li>
+<li>
+<strong>Neckline:</strong> Embellished with exquisite embroidery in golden tones, creating a statement focal point.</li>
+<li>
+<strong>Occasion:</strong> Ideal for festive celebrations, evening gatherings, or traditional ceremonies.</li>
+<li>
+<strong>Accessories:</strong> Best paired with gold jewelry and beige heels to enhance the overall grandeur.</li>
+<li>
+<strong>Style:</strong> A graceful blend of traditional embroidery with a modern silhouette, perfect for making a lasting impression.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://samridhini.com/products/7595627937876</id>
+      <title>M-32</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7595627937876</id>
+      <title>L-40</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7595627937876</id>
+      <title>XL-42</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://samridhini.com/products/7595627937876</id>
+      <title>2XL-44</title>
+      <s:price currency="INR">1479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
