@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+samridhini.com	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_INTS_f_f_pZs7diwSQn6O6h2mPs0iuA
+samridhini.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+samridhini.com	TRUE	/	FALSE	1999999999	_shopify_country	India
+samridhini.com	TRUE	/	FALSE	1999999999	keep_alive	c06dd44a-6c05-4a75-a137-db1b2b7aebdc
+samridhini.com	TRUE	/	FALSE	1999999999	localization	IN
+samridhini.com	TRUE	/	FALSE	1999999999	_shopify_y	64401C2F-ed9b-4132-8375-c12b89cf4003
+samridhini.com	TRUE	/	FALSE	1999999999	_shopify_s	8601D61F-f1f7-4AFD-83f1-5645bdc869a2
+samridhini.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Jun 2025 20:24:57 at https://samridhini.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://samridhini.com/ -O1 "C:\My Web Sites\botique" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:28:06	Error: 	"Not Found" (404) at link https://samridhini.com/POST (from https://samridhini.com/)
+20:28:06	Error: 	"Error when decompressing" (-1) at link https://samridhini.com/cdn (from https://samridhini.com/)
+20:28:37	Error: 	"Not Found" (404) at link https://samridhini.com/en/products/pure-elegance-black-soft-cotton-saree-with-subtle-sheen-and-artistic-blouse (from https://samridhini.com/)
+20:28:37	Error: 	"Not Found" (404) at link https://samridhini.com/en/products/premium-elegant-gold-pink-tissue-saree-with-golden-zari-border (from https://samridhini.com/)
+20:28:37	Error: 	"Not Found" (404) at link https://samridhini.com/en/products/classic-lavender-floral-soft-chiffon-saree-with-royal-purple-border-work-blouse (from https://samridhini.com/)
+20:28:37	Error: 	"Not Found" (404) at link https://samridhini.com/en/products/regal-soft-banarasi-katan-silk-saree (from https://samridhini.com/)
+20:37:13	Error: 	"Not Found" (404) at link https://samridhini.com/collections/POST (from https://samridhini.com/collections/all)
+20:37:14	Error: 	"Not Found" (404) at link https://samridhini.com/pages/POST (from https://samridhini.com/pages/contact)
+20:37:14	Error: 	"Not Found" (404) at link https://samridhini.com/account/POST (from https://samridhini.com/account/login)
+20:38:20	Error: 	"Not Found" (404) at link https://samridhini.com/products/POST (from https://samridhini.com/products/pure-elegance-black-soft-cotton-saree-with-subtle-sheen-and-artistic-blouse)
+20:38:20	Error: 	"Not Found" (404) at link https://samridhini.com/policies/POST (from https://samridhini.com/policies/refund-policy)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 24 seconds : 632 links scanned, 620 files written (114477170 bytes overall) [101518649 bytes received at 126266 bytes/sec], 20369969 bytes transferred using HTTP compression in 164 files, ratio 21%, 41.7 requests per connection
+(11 errors, 0 warnings, 0 messages)
